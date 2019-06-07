@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://larua-hugo.canitia.nl/</loc>
+    <lastmod>2019-06-07T16:48:44+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://larua-hugo.canitia.nl/my-second-post/</loc>
+    <lastmod>2019-06-07T16:48:44+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://larua-hugo.canitia.nl/my-first-post/</loc>
+    <lastmod>2019-06-07T16:25:53+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://larua-hugo.canitia.nl/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://larua-hugo.canitia.nl/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

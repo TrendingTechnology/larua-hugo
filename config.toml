@@ -2,10 +2,9 @@ baseURL = "https://larua-hugo.canitia.nl/"
 languageCode = "en-us"
 title = "Larua voor Hugo"
 theme = "larua-hugo"
-publishdir = "larua-hugo.canitia.nl"
-contentdir = "content/post"
-layoutdir = "layouts"
 publishdir = "public"
+
+layoutdir = "layouts"
 canonifyurls = true
 
 [[menu.main]]
